@@ -1,0 +1,483 @@
+{
+  "tags": {
+    "ngc-abas":{
+      "attributes":[
+        ""
+      ],
+      "description": ""
+    },
+
+    "ngc-autocompletar":{
+      "attributes":[
+        "nome",
+        "label",
+        "item-selecionado",
+        "atributo",
+        "lista-itens",
+        "texto-minimo",
+        "espera",
+        "botao-limpar",
+        "tamanho-lista-visivel"
+      ],
+      "description": ""
+    },
+
+    "ngc-barra-botao":{
+      "attributes":[
+        "nome",
+        "id",
+        "alinhar",
+        "mostrar-incluir-limpar",
+        "limpar-clique",
+        "salvar-clique",
+        "incluir-clique",
+        "pesquisar-clique",
+        "api"
+
+      ],
+      "description": ""
+    },
+
+    "ngc-barra-ferramentas":{
+      "attributes":[
+        ""
+      ],
+      "description": ""
+    },
+
+    "ngc-botao-radio":{
+      "attributes":[
+        "label",
+        "aria-label",
+        "nome",
+        "id",
+        "classe",
+        "mostrar",
+        "esconder",
+        "desabilitado",
+        "clique",
+        "valor"
+      ],
+      "description": ""
+    },
+
+    "ngc-botao":{
+      "attributes":[
+        "label",
+        "nome",
+        "id",
+        "tipo",
+        "desabilitado",
+        "mostrar",
+        "clique",
+        "icone",
+        "classe",
+        "api"
+      ],
+      "description": ""
+    },
+
+    "ngc-cabecalho":{
+      "attributes":[
+        ""
+      ],
+      "description": ""
+    },
+
+    "ngc-campo-cep":{
+      "attributes":[
+        "label",
+        "nome",
+        "id",
+        "habilitado",
+        "requerido",
+        "mensagens-validacao",
+        "visivel",
+        "on-change",
+        "ng-model"
+      ],
+      "description": ""
+    },
+
+    "ngc-campo-cnpj":{
+      "attributes":[
+        ""
+      ],
+      "description": ""
+    },
+
+    "ngc-campo-cpf":{
+      "attributes":[
+        ""
+      ],
+      "description": ""
+    },
+
+    "ngc-campo-data-intervalo":{
+      "attributes":[
+        "id",
+        "classe",
+        "nome",
+        "ng-model-inicial",
+        "ng-model-final",
+        "opcoes-model",
+        "on-change",
+        "on-focus",
+        "on-blur",
+        "desabilitado",
+        "requerido",
+        "minima",
+        "maxima",
+        "placeholder",
+        "abrir-quando-receber-foco",
+        "manter-aberto",
+        "visao-em-anos",
+        "esconder-icones",
+        "idioma",
+        "visivel",
+        "localidade-data",
+        "ligacao"
+      ],
+      "description": ""
+    },
+
+    "ngc-campo-data":{
+      "attributes":[
+        "id",
+        "classe",
+        "nome",
+        "ng-model",
+        "opcoes-model",
+        "on-change",
+        "on-focus",
+        "on-blur",
+        "desabilitado",
+        "requerido",
+        "minima",
+        "maxima",
+        "filtro-data",
+        "placeholder",
+        "abrir-quando-receber-foco",
+        "manter-aberto",
+        "visao-em-anos",
+        "esconder-icones",
+        "idioma",
+        "visivel",
+        "localidade-data"
+      ],
+      "description": ""
+    },
+
+    "ngc-campo-email":{
+      "attributes":[
+        ""
+      ],
+      "description": ""
+    },
+
+    "ngc-campo-telefone":{
+      "attributes":[
+        ""
+      ],
+      "description": ""
+    },
+
+    "ngc-campo-texto":{
+      "attributes":[
+        "label",
+        "nome",
+        "id",
+        "habilitado",
+        "requerido",
+        "qtde-linhas",
+        "qtde",
+        "tamanho-minimo",
+        "mensagens-validacao",
+        "tamano-maximo",
+        "visivel",
+        "multi-texto",
+        "on-change",
+        "ng-model",
+        "mascara"
+      ],
+      "description": ""
+    },
+
+    "ngc-carregando":{
+      "attributes":[
+        ""
+      ],
+      "description": ""
+    },
+
+    "ngc-cartao":{
+      "attributes":[
+        ""
+      ],
+      "description": ""
+    },
+
+    "ngc-checkbox":{
+      "attributes":[
+        "nome",
+        "label",
+        "ng-model",
+        "clique",
+        "indeterminado",
+        "handle-on-change",
+        "selecionado",
+        "valor-falso",
+        "valor-verdadeiro",
+        "desabilitado"
+      ],
+      "description": ""
+    },
+
+    "ngc-chips":{
+      "ngc-chips":{
+        "attributes":[
+          "id",
+          "classe",
+          "ng-model",
+          "visivel",
+          "transformar",
+          "somente-pre-definidos",
+          "placeholder",
+          "placeholder-secundario",
+          "removivel",
+          "somente-leitura",
+          "habilitar-edicao",
+          "max-chips",
+          "add-on-blur",
+          "on-add",
+          "on-remover",
+          "on-selecionar",
+          "aria-label",
+          "container-info",
+          "delete-info",
+          "label-botao",
+          "separadores",
+          "autocompletar",
+          "label-autocompletar"
+        ],
+        "description": ""
+      },
+
+      "ngc-contato-chips":{
+        "attributes":[
+          "id",
+          "classe",
+          "contatos",
+          "visivel",
+          "placeholder",
+          "placeholder-secundario",
+          "funcao-pesquisa",
+          "nome-contato",
+          "email-contato",
+          "imagem-contato",
+          "tamanho-minimo "
+
+        ],
+        "description": ""
+      },
+
+      "ngc-combobox":{
+        "attributes":[
+          "nome",
+          "placeholder",
+          "ng-model",
+          "selecao-multipla",
+          "acao-fechar",
+          "acao-abrir",
+          "valor-padrao",
+          "obrigatorio",
+          "atributo",
+          "opcoes"
+        ],
+        "description": ""
+      },
+
+      "ngc-confirmacao":{
+        "attributes":[
+          ""
+        ],
+        "description": ""
+      },
+
+      "ngc-conteudo-coluna":{
+        "attributes":[
+          ""
+        ],
+        "description": ""
+      },
+
+      "ngc-conteudo-linha":{
+        "attributes":[
+          ""
+        ],
+        "description": ""
+      },
+
+      "ngc-conteudo":{
+        "attributes":[
+          ""
+        ],
+        "description": ""
+      },
+
+      "ngc-core":{
+        "attributes":[
+          ""
+        ],
+        "description": ""
+      },
+
+      "ngc-crud":{
+        "attributes":[
+          ""
+        ],
+        "description": ""
+      },
+
+      "ngc-dialogo":{
+        "ngc-dialogo":{
+          "attributes":[
+            "id",
+            "arial-label"
+          ],
+          "description": ""
+        },
+
+        "ngc-dialogo-acoes":{
+          "attributes":[
+            "id",
+            "layout"
+          ],
+          "description": ""
+        },
+
+        "ngc-dialogo-conteudo":{
+          "attributes":[
+            "id"
+          ],
+          "description": ""
+        }
+      },
+
+      "ngc-filtro-busca":{
+        "attributes":[
+          ""
+        ],
+        "description": ""
+      },
+
+      "ngc-formulario":{
+        "attributes":[
+          "nome",
+          "id",
+          "titulo",
+          "subtitulo",
+          "ng-submit",
+          "limpar-form",
+          "campos-texto",
+          "model-texto"
+        ],
+        "description": ""
+      },
+
+      "ngc-icone":{
+        "attributes":[
+          "nome"
+        ],
+        "description": ""
+      },
+
+      "ngc-menu":{
+        "attributes":[
+          ""
+        ],
+        "description": ""
+      },
+
+      "ngc-passo-a-passo":{
+        "attributes":[
+          ""
+        ],
+        "description": ""
+      },
+
+      "ngc-radio-grupo":{
+        "attributes":[
+          "nome",
+          "id",
+          "classe",
+          "sem-efeito",
+          "requerido",
+          "ng-model",
+          "on-change",
+          "visivel"
+        ],
+        "description": ""
+      },
+
+      "ngc-tabela-pagina":{
+        "attributes":[
+          ""
+        ],
+        "description": ""
+      },
+
+      "ngc-tabela-paginada":{
+        "attributes":[
+          "colunas",
+          "promise",
+          "selecao",
+          "selecao-multipla",
+          "selecionados",
+          "somente-checkbox",
+          "on-selecionar",
+          "on-deselecionar",
+          "filtro-ordenacao",
+          "rodape",
+          "somente-checkbox",
+          "on-selecionar",
+          "on-deselecionar",
+          "progresso",
+          "opcoes-paginacao",
+          "por-pagina",
+          "lazy-loading",
+          "tamanho-lista",
+          "label-paginacao",
+          "combo-pagina",
+          "links-primeira-ultima",
+          "progresso"
+        ],
+        "description": ""
+      },
+
+      "ngc-tabela":{
+        "attributes":[
+          "colunas",
+          "promise",
+          "selecao",
+          "selecao-multipla",
+          "selecionados",
+          "filtros-ordenacao",
+          "rodape",
+          "somente-checkbox",
+          "on-selecionar",
+          "on-deselecionar",
+          "progresso"
+        ],
+        "description": ""
+      },
+
+      "ngc-validacao":{
+        "attributes":[
+          ""
+        ],
+        "description": ""
+      } 
+    }
+  }
+}
